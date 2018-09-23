@@ -1,0 +1,33 @@
+//weblaba_1
+   //var
+ var myname = "Yura Byrchak";
+ var = a,b,d,c,result;
+
+//Task #1
+ alert("task 1");
+ alert(name);
+
+ //task #2
+ alert("task 2");
+
+  a = 2;
+  b = 5;
+  d = 7;
+
+    c = a-b;
+    result = c+d;
+
+  alert(result);
+
+  //Task #3
+  alert("task 3");
+
+
+
+ //Task #4
+  alert("task 4") ;
+ for(var i=1;i<varriat+10;i++)
+  alert(i*i);
+
+// Task #5
+  alert("task 5");
